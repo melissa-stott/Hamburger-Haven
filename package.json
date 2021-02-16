@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/melissa-stott/Hamburger-Haven/issues"
   },
-  "homepage": "https://github.com/melissa-stott/Hamburger-Haven#readme"
+  "homepage": "https://github.com/melissa-stott/Hamburger-Haven#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
