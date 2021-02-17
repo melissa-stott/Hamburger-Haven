@@ -21,4 +21,4 @@ const connection = mysql.createConnection({
   });
   app.listen(PORT, () => console.log(`App listening on PORT ${PORT}`));
 
-  module.exports = connection
+  module.exports = {connection}
